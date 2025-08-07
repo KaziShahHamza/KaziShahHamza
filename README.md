@@ -11,20 +11,6 @@
 - **Authentication**: Custom JWT, Bcrypt, Clerk
 - **DevOps & Tools**: Firebase, Supabase, Railway, Render, AWS, GCP
 
-## 🛠️ Current Projects
-
-- 🌐 **CampusBoard**  
-  A Reddit-style post system with user-auth, votes, comments, and a "solved" tag  
-  **Stack**: Next.js + Express + MongoDB
-
-- 🍲 **RecipeBook**  
-  A MERN recipe manager with AI-generated nutrition info using Gemini  
-  **Stack**: React + Node + MongoDB + Gemini API
-
-- 💰 **Finance Tracker**  
-  Track income/expenses with a monthly summary powered by Gemini  
-  **Stack**: MERN + React Router + raw CSS
-
 ## 🛠️ Recent Projects
 
 - 🌐 [**CampusBoard**](https://github.com/KaziShahHamza/campus-board-2)
@@ -35,7 +21,7 @@
   A personal finance tracker built with Django and Gemini API integration for smart summaries  
   **Stack**: Python + Django + Gemini API + SQLite
 
-- 🍛 [**RecipeBook (JavaFX | Desktop)**](https://github.com/KaziShahHamza/RecipeBook-JavaFX) 
+- 🍛 [**RecipeBook (JavaFX | Desktop)**](https://github.com/KaziShahHamza/RecipeBook-JavaFX)
   A desktop recipe app with login/signup, recipe saving/loving, filters, and a MySQL backend  
   **Stack**: JavaFX + MySQL + SceneBuilder
 
