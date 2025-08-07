@@ -8,7 +8,7 @@
 - **Backend**: Node.js, Express, MongoDB, PostgreSQL, Prisma
 - **State Management**: Zustand, Redux, React Query, SWR
 - **Validation & Forms**: Zod, React Hook Form
-- **Authentication**: Custom JWT, Gmail login, Clerk
+- **Authentication**: Custom JWT, Bcrypt, Clerk
 - **DevOps & Tools**: Firebase, Supabase, Railway, Render, AWS, GCP
 
 ## 🛠️ Current Projects
@@ -34,6 +34,4 @@
 ## 📫 Let's Connect!
 
 Feel free to reach out, collaborate, or explore my projects!
-
----
 
