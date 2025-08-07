@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamza
 
-<!--
-**KaziShahHamza/KaziShahHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about building full-stack web apps and learning modern DevOps workflows.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB, PostgreSQL, Prisma
+- **State Management**: Zustand, Redux, React Query, SWR
+- **Validation & Forms**: Zod, React Hook Form
+- **Authentication**: Custom JWT, Gmail login, Clerk
+- **DevOps & Tools**: Firebase, Supabase, Railway, Render, AWS, GCP
+
+## 🛠️ Current Projects
+
+- 🌐 **CampusBoard**  
+  A Reddit-style post system with user-auth, votes, comments, and a "solved" tag  
+  **Stack**: Next.js + Express + MongoDB
+
+- 🍲 **RecipeBook**  
+  A MERN recipe manager with AI-generated nutrition info using Gemini  
+  **Stack**: React + Node + MongoDB + Gemini API
+
+- 💰 **Finance Tracker**  
+  Track income/expenses with a monthly summary powered by Gemini  
+  **Stack**: MERN + React Router + raw CSS
+
+## 🚀 Goals
+
+- Master **DevOps**, CI/CD, and cloud deployments  
+- Build and deploy real-world full-stack apps  
+- Explore **AI integrations** in web apps (e.g., Gemini, GPT)
+
+## 📫 Let's Connect!
+
+Feel free to reach out, collaborate, or explore my projects!
+
+---
+
