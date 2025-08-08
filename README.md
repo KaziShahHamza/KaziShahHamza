@@ -19,8 +19,9 @@
   **Stack**: Next.js + Express + MongoDB
   
 - 💰 [**Finance Tracker (Python)**](https://github.com/aspiya09/Finance_Tracker_Python_Django)  
+
   A personal finance tracker built with Django and Gemini API integration for smart summaries  
-  **Stack**: Python + Django + Gemini API + SQLite
+  **Stack**: Python + Django + Gemini API + MySql
 
 - 🍛 [**RecipeBook (JavaFX | Desktop)**](https://github.com/KaziShahHamza/RecipeBook-JavaFX)
 
@@ -28,6 +29,7 @@
   **Stack**: JavaFX + MySQL + SceneBuilder
 
 - 🍲 [**RecipeBook (Web)**](https://github.com/KaziShahHamza/RecipeBook---MERN)  
+
   A MERN recipe manager with AI-generated nutrition info using Gemini  
   **Stack**: React + Node + MongoDB + Gemini API
 
