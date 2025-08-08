@@ -14,6 +14,7 @@
 ## 🛠️ Recent Projects
 
 - 🌐 [**CampusBoard**](https://github.com/KaziShahHamza/campus-board-2)
+
   A Reddit-style post system with user-auth, votes, comments, and a "solved" tag  
   **Stack**: Next.js + Express + MongoDB
   
@@ -22,6 +23,7 @@
   **Stack**: Python + Django + Gemini API + SQLite
 
 - 🍛 [**RecipeBook (JavaFX | Desktop)**](https://github.com/KaziShahHamza/RecipeBook-JavaFX)
+
   A desktop recipe app with login/signup, recipe saving/loving, filters, and a MySQL backend  
   **Stack**: JavaFX + MySQL + SceneBuilder
 
