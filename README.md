@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza
 
-🎓 I'm a Computer Science student passionate about building full-stack web apps and learning modern DevOps workflows.
+🎓 I'm a CS student learning building full-stack web apps and modern DevOps workflows.
 
 ## 💻 Tech Stack
 
