@@ -11,28 +11,6 @@
 - **Authentication**: Custom JWT, Bcrypt, Clerk
 - **DevOps & Tools**: Firebase, Supabase, Railway, Render, AWS, GCP
 
-## 🛠️ Recent Projects
-
-- 🌐 [**CampusBoard**](https://github.com/KaziShahHamza/campus-board-2)
-
-  A Reddit-style post system with user-auth, votes, comments, and a "solved" tag  
-  **Stack**: Next.js + Express + MongoDB
-  
-- 💰 [**Finance Tracker (Python)**](https://github.com/aspiya09/Finance_Tracker_Python_Django)  
-
-  A personal finance tracker built with Django and Gemini API integration for smart summaries  
-  **Stack**: Python + Django + Gemini API + MySql
-
-- 🍛 [**RecipeBook (JavaFX | Desktop)**](https://github.com/KaziShahHamza/RecipeBook-JavaFX)
-
-  A desktop recipe app with login/signup, recipe saving/loving, filters, and a MySQL backend  
-  **Stack**: JavaFX + MySQL + SceneBuilder
-
-- 🍲 [**RecipeBook (Web)**](https://github.com/KaziShahHamza/RecipeBook---MERN)  
-
-  A MERN recipe manager with AI-generated nutrition info using Gemini  
-  **Stack**: React + Node + MongoDB + Gemini API
-
 ## 🚀 Goals
 
 - Master **DevOps**, CI/CD, and cloud deployments  
