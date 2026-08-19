@@ -112,6 +112,15 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 ---
 
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&hide_border=true" />
+</p>
+
+
+---
+
  
 ## GitHub Stats
 
@@ -120,13 +129,6 @@ Machine learning research project for predicting wildfire risk using real-world 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&hide_border=true" height="170" />
 </p>
 
----
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&hide_border=true" />
-</p>
 
 
 ---
