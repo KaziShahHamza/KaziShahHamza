@@ -112,17 +112,7 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 ---
 
-## Data Structures & Algorithms
-
-Currently strengthening my problem-solving skills using C++ & DSA.
-
-### Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
-[![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
-
----
-
+ 
 ## GitHub Stats
 
 <p align="center">
@@ -139,7 +129,18 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 </p>
 
 
+---
 
+## Data Structures & Algorithms
+
+Currently strengthening my problem-solving skills using C++ & DSA.
+
+### Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
+[![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
+
+---
 
 ## LeetCode Stats
 
