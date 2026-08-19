@@ -94,17 +94,17 @@ Machine learning research project for predicting wildfire risk using real-world 
 Currently strengthening my problem-solving skills using C++ & DSA.
 
 ### Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=yellow)]([https://leetcode.com/u/KaziShahHamza/])
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/Kazi.Shah.Hamza))
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
+[![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaziShahHamza&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KaziShahHamza&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&hide_border=true" height="170" />
 </p>
 
 ---
@@ -115,6 +115,12 @@ Currently strengthening my problem-solving skills using C++ & DSA.
   <img src="https://streak-stats.demolab.com?user=KaziShahHamza&hide_border=true" />
 </p>
 
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaziShahHamza&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 ## LeetCode Stats
@@ -123,23 +129,15 @@ Currently strengthening my problem-solving skills using C++ & DSA.
   <img src="https://leetcard.jacoblin.cool/KaziShahHamza?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
----
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaziShahHamza&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]
-([https://www.linkedin.com/in/kazishahhamza/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazishahhamza/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaziShahHamza)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_DOMAIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kazishahhamza01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_DOMAIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazishahhamza01@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1HF5q5r6IKV032aNv2alA7aKrCICMGIAF/view?usp=drive_link)
 
 ---
