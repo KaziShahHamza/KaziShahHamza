@@ -1,23 +1,142 @@
-# 👋 Hi, I'm Hamza
+# Hi, I'm Hamza
 
-🎓 I'm a CS student learning building full-stack web apps and modern DevOps workflows.
+### Entry-Level Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
-## 💻 Tech Stack
+I’m a Computer Science and Engineering graduate focused on building practical web applications and solving real-world problems.
 
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, PostgreSQL, Prisma
-- **State Management**: Zustand, Redux, React Query, SWR
-- **Validation & Forms**: Zod, React Hook Form
-- **Authentication**: Custom JWT, Bcrypt, Clerk
-- **DevOps & Tools**: Firebase, Supabase, Railway, Render, AWS, GCP
+I work primarily with **React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, and I also have hands-on experience with **Python and Machine Learning**.
 
-## 🚀 Goals
+Currently strengthening my **C++, Data Structures & Algorithms, backend development, software engineering, and system design** skills.
 
-- Master **DevOps**, CI/CD, and cloud deployments  
-- Build and deploy real-world full-stack apps  
-- Explore **AI integrations** in web apps (e.g., Gemini, GPT)
+---
 
-## 📫 Let's Connect!
+## Tech Stack
 
-Feel free to reach out, collaborate, or explore my projects!
+### Languages
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+### AI / Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### CampusBoard
+
+Full-stack community and real-time communication platform built with React, Node.js, Express, MongoDB, and Socket.IO.
+
+**Features:** JWT authentication, REST APIs, user interactions, real-time messaging, responsive UI.
+
+[Repository](https://github.com/YOUR_USERNAME/CampusBoard) · [Live Demo](YOUR_CAMPUSBOARD_LIVE_LINK)
+
+---
+
+### MediSync
+
+Full-stack medicine management application built with React, Node.js, Express, PostgreSQL, and Prisma.
+
+**Features:** Authentication, medicine scheduling, reminders, health logging, CRUD operations, and responsive UI.
+
+[Repository](https://github.com/YOUR_USERNAME/MediSync) · [Live Demo](YOUR_MEDISYNC_LIVE_LINK)
+
+---
+
+### Wildfire Prediction
+
+Machine learning research project for predicting wildfire risk using real-world environmental and satellite data.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SHAP, Streamlit.
+
+[Repository](https://github.com/YOUR_USERNAME/YOUR_WILDFIRE_REPOSITORY) · [Live Demo](YOUR_WILDFIRE_LIVE_LINK)
+
+---
+
+## Data Structures & Algorithms
+
+Currently strengthening my problem-solving skills using **C++ and STL**.
+
+Topics I practice:
+
+* Arrays & Strings
+* Linked Lists
+* Stacks & Queues
+* Hashing
+* Recursion & Backtracking
+* Sorting & Searching
+* Binary Search
+* Trees & BST
+* Graphs
+* Two Pointers
+* Sliding Window
+* Dynamic Programming
+
+### Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=yellow)](YOUR_LEETCODE_URL)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](YOUR_CODEFORCES_URL)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_DOMAIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+### Open to opportunities
+
+I’m currently open to **Entry-Level Software Engineer, Full-Stack Developer, Backend Developer, and related software development opportunities**.
+
+Thanks for visiting my profile.
