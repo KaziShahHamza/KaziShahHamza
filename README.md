@@ -75,9 +75,9 @@ Currently strengthening my **C++, Data Structures & Algorithms, backend developm
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge\&logo=popos\&logoColor=white)
 
-
----
 <!--
+---
+
 ## Featured Projects
 
 ### CampusBoard
@@ -150,14 +150,6 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 
 ---
 
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaziShahHamza&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazishahhamza/)
@@ -167,6 +159,14 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 [![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1HF5q5r6IKV032aNv2alA7aKrCICMGIAF/view?usp=drive_link)
 
 ---
+
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaziShahHamza&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ### Open to opportunities
 
