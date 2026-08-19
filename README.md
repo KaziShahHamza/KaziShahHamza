@@ -46,8 +46,6 @@ Currently strengthening my **C++, Data Structures & Algorithms, backend developm
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ### Tools & DevOps
@@ -56,8 +54,6 @@ Currently strengthening my **C++, Data Structures & Algorithms, backend developm
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
 ---
 
@@ -69,7 +65,7 @@ Full-stack community and real-time communication platform built with React, Node
 
 **Features:** JWT authentication, REST APIs, user interactions, real-time messaging, responsive UI.
 
-[Repository](https://github.com/YOUR_USERNAME/CampusBoard) · [Live Demo](YOUR_CAMPUSBOARD_LIVE_LINK)
+[Repository](https://github.com/KaziShahHamza/CampusBoard) · [Live Demo](YOUR_CAMPUSBOARD_LIVE_LINK)
 
 ---
 
@@ -79,7 +75,7 @@ Full-stack medicine management application built with React, Node.js, Express, P
 
 **Features:** Authentication, medicine scheduling, reminders, health logging, CRUD operations, and responsive UI.
 
-[Repository](https://github.com/YOUR_USERNAME/MediSync) · [Live Demo](YOUR_MEDISYNC_LIVE_LINK)
+[Repository](https://github.com/KaziShahHamza/MediSync) · [Live Demo](YOUR_MEDISYNC_LIVE_LINK)
 
 ---
 
@@ -89,49 +85,37 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SHAP, Streamlit.
 
-[Repository](https://github.com/YOUR_USERNAME/YOUR_WILDFIRE_REPOSITORY) · [Live Demo](YOUR_WILDFIRE_LIVE_LINK)
+[Repository](https://github.com/KaziShahHamza/Wildfire-2) · [Live Demo](YOUR_WILDFIRE_LIVE_LINK)
 
 ---
 
 ## Data Structures & Algorithms
 
-Currently strengthening my problem-solving skills using **C++ and STL**.
-
-Topics I practice:
-
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Hashing
-* Recursion & Backtracking
-* Sorting & Searching
-* Binary Search
-* Trees & BST
-* Graphs
-* Two Pointers
-* Sliding Window
-* Dynamic Programming
+Currently strengthening my problem-solving skills using **C++ & DSA.
 
 ### Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=yellow)](YOUR_LEETCODE_URL)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](YOUR_CODEFORCES_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=yellow)]([YOUR_LEETCODE_URL](https://leetcode.com/u/KaziShahHamza/))
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/Kazi.Shah.Hamza))
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziShahHamza\&show_icons=true\&hide_border=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziShahHamza\&layout=compact\&hide_border=true)
 
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]
+([https://www.linkedin.com/in/kazishahhamza/])
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaziShahHamza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_DOMAIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kazishahhamza01@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://yourdomain.com/cv.pdf)
 
 ---
 
