@@ -102,9 +102,34 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziShahHamza\&show_icons=true\&hide_border=true\&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaziShahHamza&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&hide_border=true" height="170" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziShahHamza\&layout=compact\&hide_border=true)
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&hide_border=true" />
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KaziShahHamza?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaziShahHamza&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -115,7 +140,7 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaziShahHamza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_DOMAIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kazishahhamza01@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://yourdomain.com/cv.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1HF5q5r6IKV032aNv2alA7aKrCICMGIAF/view?usp=drive_link)
 
 ---
 
