@@ -91,11 +91,11 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 ## Data Structures & Algorithms
 
-Currently strengthening my problem-solving skills using **C++ & DSA.
+Currently strengthening my problem-solving skills using C++ & DSA.
 
 ### Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=yellow)]([YOUR_LEETCODE_URL](https://leetcode.com/u/KaziShahHamza/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=yellow)]([https://leetcode.com/u/KaziShahHamza/])
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/Kazi.Shah.Hamza))
 
 ---
