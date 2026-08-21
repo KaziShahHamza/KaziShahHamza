@@ -30,11 +30,8 @@ My long-term goal is to become a strong **software engineer and problem solver**
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Frontend
 
@@ -53,7 +50,7 @@ My long-term goal is to become a strong **software engineer and problem solver**
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
-[![Socket.IO](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge\&logo=clerk\&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
@@ -68,19 +65,20 @@ My long-term goal is to become a strong **software engineer and problem solver**
 
 ### Deployment & DevOps
 
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
 ### AI / Machine Learning
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
-[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
-[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
 
 ### Tools
 
@@ -91,7 +89,7 @@ My long-term goal is to become a strong **software engineer and problem solver**
 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-[![Google Colab](https://skillicons.dev/icons?i=googlecolab)](https://skillicons.dev)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
 
 
 ---
