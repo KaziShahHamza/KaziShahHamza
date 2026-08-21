@@ -2,11 +2,23 @@
 
 ### Software Engineer | Full-Stack Developer | AI/ML | React, TypeScript, Node.js, PostgreSQL, MongoDB
 
-I’m a Computer Science and Engineering graduate focused on building practical web applications and solving real-world problems.
+I’m a Computer Science and Engineering graduate focused on building practical web applications, solving real-world problems, and becoming a stronger software engineer.
 
-I work primarily with **React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, and I also have hands-on experience with **Python and Machine Learning**.
+I primarily work with **React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, with hands-on experience in **Python and Machine Learning**.
 
-Currently strengthening my **C++, Data Structures & Algorithms, backend development, software engineering, and system design** skills.
+### Currently Focused On
+
+* **DSA & Problem Solving** — following the **NeetCode 250** roadmap, targeting **300+ LeetCode problems**, and practicing competitive programming on **Codeforces** with a goal of reaching **1500+ rating**.
+* **Software Engineering** — improving raw coding, debugging, backend development, and system design skills.
+* **DevOps** — learning **Docker, Kubernetes, CI/CD, and cloud infrastructure**.
+* **Real-World Development** — building practical BD based web solutions for real problems, particularly in the **Bangladesh** context.
+
+### Research
+
+My undergraduate thesis focuses on **California Wildfire Prediction using Machine Learning**, combining historical environmental data with live weather and environmental data to generate **3-day wildfire predictions**. I’m currently exploring opportunities to **publish the research**.
+
+My long-term goal is to become a strong **software engineer and problem solver** capable of designing, building, debugging, and scaling real-world systems.
+
 
 ---
 ## Tech Stack
