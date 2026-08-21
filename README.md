@@ -22,6 +22,78 @@ My long-term goal is to become a strong **software engineer and problem solver**
 ---
 ## Tech Stack
 
+## Tech Stack
+
+### Languages
+
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+### Frontend
+
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+[![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+
+### Backend & APIs
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+[![Socket.IO](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge\&logo=clerk\&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+
+### Databases
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+
+### Deployment & DevOps
+
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+
+### AI / Machine Learning
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
+[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
+[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
+
+### Tools
+
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+[![Google Colab](https://skillicons.dev/icons?i=googlecolab)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Pop!\_OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+
+---
+
 ### Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
