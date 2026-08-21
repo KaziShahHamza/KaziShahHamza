@@ -88,6 +88,47 @@ My long-term goal is to become a strong **software engineer and problem solver**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge\&logo=popos\&logoColor=white)
 
+## Tech Stack
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=cpp,js,ts,py,java)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+**Also:** React Router, React Query, Material UI
+
+### Backend & APIs
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)
+
+**Also:** REST APIs, Socket.IO, JWT, Clerk, Gemini API
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,prisma)](https://skillicons.dev)
+
+### Deployment & DevOps
+
+[![DevOps](https://skillicons.dev/icons?i=vercel,render,aws,docker,kubernetes,githubactions)](https://skillicons.dev)
+
+**Also:** Cloudinary, CI/CD
+
+### AI / Machine Learning
+
+[![AI/ML](https://skillicons.dev/icons?i=python,numpy,pytorch,tensorflow,sklearn)](https://skillicons.dev)
+
+**Also:** Pandas, Streamlit, Machine Learning
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,linux,vscode)](https://skillicons.dev)
+
+**Also:** MySQL Workbench, MongoDB Compass, Google Colab, Pop!_OS
+
+
 <!--
 ---
 
