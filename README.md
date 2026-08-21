@@ -163,7 +163,7 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazishahhamza/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaziShahHamza)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_DOMAIN) -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazishahhamza01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazihamza.swe@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1HF5q5r6IKV032aNv2alA7aKrCICMGIAF/view?usp=drive_link)
 
 ---
