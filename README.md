@@ -1,16 +1,12 @@
 # Hi, I'm Hamza
 
-### Software Engineer | Full-Stack Developer | AI/ML | React, TypeScript, Node.js, PostgreSQL, MongoDB
-
 I’m a Computer Science and Engineering graduate focused on building practical web applications, solving real-world problems, and becoming a stronger software engineer.
 
 I primarily work with **React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, with hands-on experience in **Python and Machine Learning**.
 
 ### Currently Focused On
 
-### Currently Focused On
-
-* **DSA & Problem Solving** - following the **NeetCode 250** roadmap, targeting **300+ LeetCode problems** across major DSA topics, and practicing competitive programming on **Codeforces** with a goal of reaching **1500+ rating**.
+* **DSA & Problem Solving** - following the **NeetCode 250** roadmap, targeting **300+ LeetCode problems** across DSA topics.
 * **Software Engineering** - improving raw coding, debugging, backend development, and system design skills.
 * **DevOps** - learning **Docker, Kubernetes, AWS, and cloud infrastructure**.
 * **AI-Assisted Development** - learning modern **AI coding and software development tools** to improve development speed, debugging, automation, and productivity.
@@ -158,7 +154,9 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 ### Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
 [![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
+<!---
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
+--->
 
 ---
 
