@@ -8,10 +8,13 @@ I primarily work with **React, TypeScript, JavaScript, Node.js, Express, Postgre
 
 ### Currently Focused On
 
-* **DSA & Problem Solving** — following the **NeetCode 250** roadmap, targeting **300+ LeetCode problems**, and practicing competitive programming on **Codeforces** with a goal of reaching **1500+ rating**.
-* **Software Engineering** — improving raw coding, debugging, backend development, and system design skills.
-* **DevOps** — learning **Docker, Kubernetes, CI/CD, and cloud infrastructure**.
-* **Real-World Development** — building practical BD based web solutions for real problems, particularly in the **Bangladesh** context.
+### Currently Focused On
+
+* **DSA & Problem Solving** - following the **NeetCode 250** roadmap, targeting **300+ LeetCode problems** across major DSA topics, and practicing competitive programming on **Codeforces** with a goal of reaching **1500+ rating**.
+* **Software Engineering** - improving raw coding, debugging, backend development, and system design skills.
+* **DevOps** - learning **Docker, Kubernetes, AWS, and cloud infrastructure**.
+* **AI-Assisted Development** - learning modern **AI coding and software development tools** to improve development speed, debugging, automation, and productivity.
+* **Real-World Development** - building practical **BD-based** web solutions for real problems, particularly in the **Bangladesh** context.
 
 ### Research
 
@@ -155,9 +158,7 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 ### Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
 [![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
-<!---
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
---->
 
 ---
 
