@@ -129,6 +129,75 @@ My long-term goal is to become a strong **software engineer and problem solver**
 **Also:** MySQL Workbench, MongoDB Compass, Google Colab, Pop!_OS
 
 
+## Tech Stack
+
+### Languages
+
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+### Frontend
+
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![React Router](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![React Query](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+
+### Backend & APIs
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![REST API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Socket.IO](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
+[![JWT](https://skillicons.dev/icons?i=auth0)](https://skillicons.dev)
+[![Clerk](https://skillicons.dev/icons?i=clerk)](https://skillicons.dev)
+[![Gemini API](https://skillicons.dev/icons?i=google)](https://skillicons.dev)
+
+### Databases
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![MongoDB Atlas](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+
+### Deployment & DevOps
+
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![Render](https://skillicons.dev/icons?i=render)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+[![Cloudinary](https://skillicons.dev/icons?i=cloudinary)](https://skillicons.dev)
+
+### AI / Machine Learning
+
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
+[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
+[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
+
+### Tools
+
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB Compass](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Google Colab](https://skillicons.dev/icons?i=googlecolab)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Pop!\_OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+
+
 <!--
 ---
 
