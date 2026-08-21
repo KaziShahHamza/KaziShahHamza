@@ -30,7 +30,10 @@ My long-term goal is to become a strong **software engineer and problem solver**
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Frontend
@@ -48,6 +51,7 @@ My long-term goal is to become a strong **software engineer and problem solver**
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 [![Socket.IO](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
@@ -58,16 +62,14 @@ My long-term goal is to become a strong **software engineer and problem solver**
 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Deployment & DevOps
 
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
@@ -85,12 +87,11 @@ My long-term goal is to become a strong **software engineer and problem solver**
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Pop!\_OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 [![Google Colab](https://skillicons.dev/icons?i=googlecolab)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![Pop!\_OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 
 ---
