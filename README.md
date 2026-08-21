@@ -52,7 +52,9 @@ Currently strengthening my **C++, Data Structures & Algorithms, backend developm
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+<!---
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+--->
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
 ### AI / Machine Learning
@@ -140,7 +142,9 @@ Currently strengthening my problem-solving skills using C++ & DSA.
 
 ### Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
+<!---
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
+--->
 [![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
 
 ---
