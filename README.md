@@ -30,17 +30,18 @@ My long-term goal is to become a strong **software engineer and problem solver**
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Frontend
 
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
-[![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
 
 ### Backend & APIs
 
