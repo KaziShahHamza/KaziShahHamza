@@ -6,7 +6,7 @@ I primarily work with **React, TypeScript, JavaScript, Node.js, Express, Postgre
 
 ### Currently Focused On
 
-* **DSA & Problem Solving** - following the **NeetCode 250** roadmap, targeting **300+ LeetCode problems** across DSA topics.
+* **DSA & Coding Interview Preparation** - currently preparing for software engineering coding interviews by following the **NeetCode 250** roadmap with **C++**, targeting **300+ problems** across DSA topics.
 * **Software Engineering** - improving raw coding, debugging, backend development, and system design skills.
 * **DevOps** - learning **Docker, Kubernetes, AWS, and cloud infrastructure**.
 * **AI-Assisted Development** - learning modern **AI coding and software development tools** to improve development speed, debugging, automation, and productivity.
