@@ -2,7 +2,7 @@
 
 I’m a Computer Science and Engineering graduate focused on building practical web applications, solving real-world problems, and becoming a stronger software engineer.
 
-I primarily work with **React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, with hands-on experience in **Python and Machine Learning**.
+I primarily work with **React, Next.js, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, with hands-on experience in **Python and Machine Learning**.
 
 ### Currently Focused On
 
