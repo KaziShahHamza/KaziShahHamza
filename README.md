@@ -138,12 +138,14 @@ Machine learning research project for predicting wildfire risk using real-world 
 ---
 
  
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KaziShahHamza&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&langs_count=8&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
+
 
 
 
