@@ -128,10 +128,11 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 ---
 
+
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 
