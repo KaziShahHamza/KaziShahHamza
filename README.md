@@ -84,10 +84,6 @@ I primarily work with **React, Next.js, TypeScript, JavaScript, Node.js, Express
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
 ### AI / Machine Learning
-<!---
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
---->
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
@@ -153,17 +149,6 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 My undergraduate thesis focuses on **California Wildfire Prediction using Machine Learning**, combining historical environmental data with live weather and environmental data to generate **3-day wildfire predictions**. I’m currently exploring opportunities to **publish the research**.
 
-
-
----
-
-## Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KaziShahHamza/)
-[![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/user/SoaringBajoran322)
-<!---
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kazi.Shah.Hamza)
---->
-
 ---
 
 ## LeetCode Stats
@@ -172,16 +157,5 @@ My undergraduate thesis focuses on **California Wildfire Prediction using Machin
   <img src="https://leetcard.jacoblin.cool/KaziShahHamza?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazishahhamza/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaziShahHamza)
-[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kazishah_hamza)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_DOMAIN) -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazihamza.swe@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download%20CV-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1HF5q5r6IKV032aNv2alA7aKrCICMGIAF/view?usp=drive_link)
 
 
