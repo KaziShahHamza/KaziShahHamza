@@ -18,6 +18,22 @@ My undergraduate thesis focuses on **California Wildfire Prediction using Machin
 
 My long-term goal is to become a strong **software engineer and problem solver** capable of designing, building, debugging, and scaling real-world systems.
 
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
+</p>
 
 ---
 ## Tech Stack
@@ -128,29 +144,6 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 ---
 
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaziShahHamza&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-
----
-
- 
-
-## GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
-</p>
-
-
-
-
----
 
 ## Data Structures & Algorithms
 
