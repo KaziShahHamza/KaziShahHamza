@@ -4,20 +4,6 @@ I’m a Computer Science and Engineering graduate focused on building practical 
 
 I primarily work with **React, Next.js, TypeScript, JavaScript, Node.js, Express, PostgreSQL, MongoDB, and REST APIs**, with hands-on experience in **Python and Machine Learning**.
 
-### Currently Focused On
-
-* **DSA & Coding Interview Preparation** - currently preparing for software engineering coding interviews by following the **NeetCode 250** roadmap with **C++**, targeting **300+ problems** across DSA topics.
-* **Software Engineering** - improving raw coding, debugging, backend development, and system design skills.
-* **DevOps** - learning **Docker, Kubernetes, AWS, and cloud infrastructure**.
-* **AI-Assisted Development** - learning modern **AI coding and software development tools** to improve development speed, debugging, automation, and productivity.
-* **Real-World Development** - building practical **BD-based** web solutions for real problems, particularly in the **Bangladesh** context.
-
-### Research
-
-My undergraduate thesis focuses on **California Wildfire Prediction using Machine Learning**, combining historical environmental data with live weather and environmental data to generate **3-day wildfire predictions**. I’m currently exploring opportunities to **publish the research**.
-
-My long-term goal is to become a strong **software engineer and problem solver** capable of designing, building, debugging, and scaling real-world systems.
-
 ---
 
 ## Contribution Streak
@@ -34,6 +20,23 @@ My long-term goal is to become a strong **software engineer and problem solver**
   <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
+
+---
+
+### Currently Focused On
+
+* **DSA & Coding Interview Preparation** - currently preparing for software engineering coding interviews by following the **NeetCode 250** roadmap with **C++**, targeting **300+ problems** across DSA topics.
+* **Software Engineering** - improving raw coding, debugging, backend development, and system design skills.
+* **DevOps** - learning **Docker, Kubernetes, AWS, and cloud infrastructure**.
+* **AI-Assisted Development** - learning modern **AI coding and software development tools** to improve development speed, debugging, automation, and productivity.
+* **Real-World Development** - building practical **BD-based** web solutions for real problems, particularly in the **Bangladesh** context.
+
+### Research
+
+My undergraduate thesis focuses on **California Wildfire Prediction using Machine Learning**, combining historical environmental data with live weather and environmental data to generate **3-day wildfire predictions**. I’m currently exploring opportunities to **publish the research**.
+
+My long-term goal is to become a strong **software engineer and problem solver** capable of designing, building, debugging, and scaling real-world systems.
+
 
 ---
 ## Tech Stack
