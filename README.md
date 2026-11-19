@@ -139,7 +139,7 @@ Machine learning research project for predicting wildfire risk using real-world 
 
 ---
 
-### Currently Focused On
+### Currently Focusing On
 
 * **DSA & Coding Interview Preparation** - currently preparing for software engineering coding interviews by following the **NeetCode 250** roadmap with **C++**, targeting **300+ problems** across DSA topics.
 * **DevOps** - learning **Docker, Kubernetes, AWS, and cloud infrastructure**.
