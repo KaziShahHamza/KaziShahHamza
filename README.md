@@ -81,7 +81,6 @@ I primarily work with **React, Next.js, TypeScript, JavaScript, Node.js, Express
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
 ### AI / Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
