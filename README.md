@@ -150,11 +150,12 @@ My undergraduate thesis focuses on **California Wildfire Prediction using Machin
 
 ---
 
+<!--
 ## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/KaziShahHamza?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-
+ -->
 
